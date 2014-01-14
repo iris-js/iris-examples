@@ -1,0 +1,13 @@
+{
+  "name": "iris-examples",
+  "version": "0.0.1",
+  "description": "Iris examples",
+  "main": "server.js",
+  "repository": "",
+  "author": "iris-js <iris.thegameofcode@gmail.com>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+    "socket.io": "~0.9.14"
+  }
+}
